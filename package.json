@@ -2,7 +2,7 @@
 {
   "name": "shadow-ninja-multiplayer",
   "version": "1.0.0",
-  "description": "Original multiplayer ninja platformer",
+  "description": "Multiplayer ninja platformer",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -15,4 +15,3 @@
     "node": ">=18"
   }
 }
-```
